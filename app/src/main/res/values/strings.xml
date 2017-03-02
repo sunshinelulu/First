@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="button_send">Send</string>
+    <string name="question1">1:给路娟的简历您打几分？</string>
+</resources>
